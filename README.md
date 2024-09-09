@@ -14,8 +14,5 @@ Excited to work with others who share a passion for technology and solving compl
 💬 **Ask me about:**
 Spring Framework, microservices design patterns, or anything related to backend development.
 
-😄 **Pronouns:**
-He/Him
-
 ⚡ **Fun fact:**
 Playing badminton and exploring new tech and open-source projects.
