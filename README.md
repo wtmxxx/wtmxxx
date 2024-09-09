@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**wtmxxx/wtmxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Backend Developer
 
-Here are some ideas to get you started:
+🔭 **Currently working on:**
+Specializing in Spring and microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning:**
+Exploring cloud-native technologies.
+
+👯 **Looking to collaborate on:**
+Excited to work with others who share a passion for technology and solving complex problems.
+
+💬 **Ask me about:**
+Spring Framework, microservices design patterns, or anything related to backend development.
+
+😄 **Pronouns:**
+He/Him
+
+⚡ **Fun fact:**
+Playing badminton and exploring new tech and open-source projects.
