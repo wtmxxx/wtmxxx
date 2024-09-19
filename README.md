@@ -8,7 +8,7 @@ Specializing in Spring and microservices.
 🌱 **Currently learning:**
 Exploring cloud-native technologies.
 
-👯 **Looking to collaborate on:**
+🧑‍🤝‍🧑 **Looking to collaborate on:**
 Excited to work with others who share a passion for technology and solving complex problems.
 
 💬 **Ask me about:**
