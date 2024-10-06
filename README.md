@@ -1,14 +1,10 @@
-<div align="center">
+<h1 align="center">
     <a href="https://www.wotemo.com">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Wotemo" alt="Typing SVG">
     </a>
-</div>
+</h1>
 
-<div align="center">
-    <span style="font-size: 30px; font-weight: bold;">
-        A Backend Developer from China
-    </span>
-</div>
+<h3 align="center">A Backend Developer</h3>
 
 🔭 **Currently working on:**
 Specializing in Spring and microservices.
