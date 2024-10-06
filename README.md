@@ -4,7 +4,9 @@
     </a>
 </div>
 
-### <center>A Backend Developer from China</center>
+<div align="center">
+    ## A Backend Developer from China
+</div>
 
 🔭 **Currently working on:**
 Specializing in Spring and microservices.
