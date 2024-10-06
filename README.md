@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.wotemo.com">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Wotemo" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=CC0066&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Wotemo" alt="Typing SVG">
     </a>
 </div>
 
