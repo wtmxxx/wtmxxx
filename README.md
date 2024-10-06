@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Wotemo)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 ### A Backend Developer
