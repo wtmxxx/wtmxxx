@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
-    ## A Backend Developer from China
+    <span style="font-size: 30px; font-weight: bold;">
+        A Backend Developer from China
+    </span>
 </div>
 
 🔭 **Currently working on:**
