@@ -1,12 +1,10 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
+    <a href="https://www.wotemo.com">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&vCenter=true&width=300&lines=Hi%2C+I'm+Wotemo" alt="Typing SVG">
     </a>
 </div>
 
-## Hi there 👋
-
-### A Backend Developer
+### <center>A Backend Developer from China</center>
 
 🔭 **Currently working on:**
 Specializing in Spring and microservices.
@@ -22,3 +20,4 @@ Spring Framework, microservices design patterns, or anything related to backend 
 
 ⚡ **Fun fact:**
 Playing badminton and exploring new tech and open-source projects.
+
