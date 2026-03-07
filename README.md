@@ -22,16 +22,16 @@
 </p>
 
 🔭 **Currently working on:**
-Specializing in Spring and microservices.
+**Spring-based microservices and AI applications.**
 
 🌱 **Currently learning:**
-Exploring cloud-native technologies.
+**Cloud-native technologies and AI Agent systems** (RAG, LangChain4j, LangGraph4j).
 
 🧑‍🤝‍🧑 **Looking to collaborate on:**
-Excited to work with others who share a passion for technology and solving complex problems.
+Backend systems, **microservices**, and **AI Agent applications**.
 
 💬 **Ask me about:**
-Spring Framework, microservices design patterns, or anything related to backend development.
+Spring, microservices architecture, **ai agent**, and backend development.
 
 ⚡ **Fun fact:**
-Playing badminton and exploring new tech and open-source projects.
+Badminton 🏸, swimming 🏊, and exploring **new technologies and open-source projects**.
